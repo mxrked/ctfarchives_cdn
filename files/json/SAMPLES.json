@@ -1,0 +1,10 @@
+[
+  {
+    "sampleID": 1,
+    "sampleSrc": "sampleSrc1",
+    "sampleName": "Used Car Dealerships",
+    "sampleDesc": "Description for Used Car Dealerships.",
+    "samplePrice": 10000,
+    "sampleImg": "sampleImg"
+  }
+]
