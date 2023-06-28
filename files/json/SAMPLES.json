@@ -1,7 +1,7 @@
 [
   {
     "sampleID": "S_01",
-    "sampleSrc": "sampleSrc1",
+    "sampleSrc": "https://codingthefront.com/",
     "sampleName": "Used Car Dealerships",
     "sampleDesc": "Description for Used Car Dealerships.",
     "samplePrice": 10000,
